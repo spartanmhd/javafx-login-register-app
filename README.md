@@ -26,4 +26,4 @@ A simple desktop application built with JavaFX, using MVC architecture, Scene Bu
    ```
 2. Open in IntelliJ IDEA
 3. Configure MySQL connection in the source code
-4. Run the main application class
+4. Run the HelloApplication application class
